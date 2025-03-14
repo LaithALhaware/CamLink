@@ -1,0 +1,8 @@
+tkinter
+webbrowser
+opencv-python
+imutils
+pillow
+opencv-python
+imutils
+pillow
