@@ -1,5 +1,7 @@
 # 📷 CamLink
 
+![Alt Text](Main.png)
+
 **CamLink** is a user-friendly application for connecting to and streaming RTSP camera feeds. This tool allows you to enter camera credentials and view live footage directly from the app.
 
 ## ✨ Features
